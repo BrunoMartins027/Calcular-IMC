@@ -1,0 +1,22 @@
+
+
+.calculadora-imc-container-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 300px;}
+
+    .content-button-div .button-imc{
+        background-color: white;
+        color: black;
+        width: 360px;
+        
+        
+    }
+
+    .button-imc{
+        height: 30px;
+        font-size: 22px;
+    }
